@@ -1,0 +1,75 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\João Cleber\\Documents\\Programação\\Udemy AspNet\\Projeto 3\\projeto.WebAPI\\projeto.WebAPI.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\João Cleber\\Documents\\Programação\\Udemy AspNet\\Projeto 3\\projeto.WebAPI\\projeto.WebAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\João Cleber\\Documents\\Programação\\Udemy AspNet\\Projeto 3\\projeto.WebAPI\\projeto.WebAPI.csproj",
+        "projectName": "projeto.WebAPI",
+        "projectPath": "C:\\Users\\João Cleber\\Documents\\Programação\\Udemy AspNet\\Projeto 3\\projeto.WebAPI\\projeto.WebAPI.csproj",
+        "packagesPath": "C:\\Users\\João Cleber\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\João Cleber\\Documents\\Programação\\Udemy AspNet\\Projeto 3\\projeto.WebAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\João Cleber\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
